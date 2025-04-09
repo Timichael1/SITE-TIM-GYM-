@@ -1,0 +1,12 @@
+::1 - - [05/Apr/2025:22:56:50 +0200] "GET / HTTP/1.1" 200 2753
+::1 - - [05/Apr/2025:22:56:50 +0200] "GET /assets/css/style.css HTTP/1.1" 304 -
+::1 - - [05/Apr/2025:22:56:50 +0200] "GET /assets/js/pdf.js HTTP/1.1" 304 -
+::1 - - [05/Apr/2025:22:56:50 +0200] "GET /assets/js/script.js HTTP/1.1" 404 196
+::1 - - [05/Apr/2025:22:56:50 +0200] "GET /favicon.ico HTTP/1.1" 404 196
+::1 - - [05/Apr/2025:22:57:11 +0200] "POST /php/traitement-formulaire.php HTTP/1.1" 500 -
+::1 - - [05/Apr/2025:22:57:36 +0200] "POST /php/traitement-formulaire.php HTTP/1.1" 500 -
+::1 - - [05/Apr/2025:22:57:44 +0200] "GET /graphiques.php HTTP/1.1" 200 2186
+::1 - - [05/Apr/2025:22:57:44 +0200] "GET /assets/css/stylegraph.css HTTP/1.1" 304 -
+::1 - - [05/Apr/2025:22:57:44 +0200] "GET /assets/js/statistiques.js HTTP/1.1" 304 -
+::1 - - [05/Apr/2025:22:57:44 +0200] "GET /assets/js/script.js HTTP/1.1" 404 196
+::1 - - [05/Apr/2025:22:57:49 +0200] "GET /data/data.json HTTP/1.1" 200 1604

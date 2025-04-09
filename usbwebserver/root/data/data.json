@@ -1,0 +1,74 @@
+[
+    {
+        "email": "timo1@sfr.fr",
+        "poids": 22,
+        "reps": 22,
+        "calories": 22,
+        "duree": 22,
+        "date": "2025-04-05 22:23:58"
+    },
+    {
+        "email": "timo1@sfr.fr",
+        "poids": 22,
+        "reps": 22,
+        "calories": 22,
+        "duree": 22,
+        "date": "2025-04-05 22:24:02"
+    },
+    {
+        "email": "timo1@sfr.fr",
+        "poids": 44,
+        "reps": 44,
+        "calories": 44,
+        "duree": 44,
+        "date": "2025-04-05 22:24:11"
+    },
+    {
+        "email": "ti.michael@epmistes.net",
+        "poids": 88,
+        "reps": 88,
+        "calories": 88,
+        "duree": 88,
+        "date": "2025-04-05 22:24:57"
+    },
+    {
+        "email": "ti.michael@epmistes.net",
+        "poids": 22,
+        "reps": 22,
+        "calories": 22,
+        "duree": 22,
+        "date": "2025-04-05 22:25:06"
+    },
+    {
+        "email": "timo1@sfr.fr",
+        "poids": 42621351,
+        "reps": 2147483647,
+        "calories": 222222225,
+        "duree": 222222222,
+        "date": "2025-04-05 22:31:58"
+    },
+    {
+        "email": "timo1@sfr.fr",
+        "poids": 42621351,
+        "reps": 2147483647,
+        "calories": 222222225,
+        "duree": 222222222,
+        "date": "2025-04-05 22:32:13"
+    },
+    {
+        "email": "timo1@sfr.fr",
+        "poids": 50,
+        "reps": 2,
+        "calories": 6,
+        "duree": 3,
+        "date": "2025-04-05 22:57:11"
+    },
+    {
+        "email": "timo1@sfr.fr",
+        "poids": 60,
+        "reps": 3,
+        "calories": 8,
+        "duree": 5,
+        "date": "2025-04-05 22:57:36"
+    }
+]
