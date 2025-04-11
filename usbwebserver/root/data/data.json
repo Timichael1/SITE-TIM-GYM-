@@ -70,5 +70,13 @@
         "calories": 8,
         "duree": 5,
         "date": "2025-04-05 22:57:36"
+    },
+    {
+        "email": "timo1@sfr.fr",
+        "poids": 565,
+        "reps": 855,
+        "calories": 6,
+        "duree": 36,
+        "date": "2025-04-09 12:05:45"
     }
 ]
